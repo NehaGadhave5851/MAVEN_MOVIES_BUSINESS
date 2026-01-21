@@ -1,9 +1,36 @@
-# 🎬 Maven Movies: Unlocking Insights for a Rental Business
+# 🎬 Maven Movies business: Unlocking Insights for a Rental Business
 
-![Project Banner](https://github.com/Sayali821/Mavenmovies/blob/200eb076804152c5e1ba46638a60a3a5d01c34c1/banner.jpg)
+![Project Beed](https://images.ctfassets.net/p80c52b4itd3/62jiRLvT2OPJKZ1i5phLHa/e22f1fa259f2264b014c40b6e4e906ad/movies_compressed.png)
 
 ## 📌 Project Overview
-This project focuses on analyzing the *MAVENMOVIES* database to extract valuable insights that can enhance business operations, marketing strategies, and inventory management. SQL is extensively used to perform exploratory data analysis (EDA), understand the database schema, and answer critical business queries.
+
+The Maven Movies project is a comprehensive SQL-based data analysis initiative designed to simulate the operations of a movie rental company. Leveraging a relational database schema that models a real-world DVD rental business, this project aims to explore business performance, customer behavior, and operational efficiency through powerful SQL queries and data visualizations.
+
+- This project is ideal for anyone looking to:
+
+- Practice and strengthen SQL skills.
+
+- Understand database design and normalization.
+
+- Gain insights from transactional data.
+
+- Simulate real-world business scenarios in the movie rental domain.
+
+- The dataset includes key business entities such as:
+
+*Customers: Personal details and demographics.
+
+*Films: Titles, genres, ratings, rental costs, and durations.
+
+*Rentals: Dates, rental status, and associated customers.
+
+*Staff: Employees managing stores and transactions.
+
+*Payments: Transactional records for each rental.
+
+*Stores: Location and management details.
+
+*Inventory: DVDs available at each store.
 
 
 ---
@@ -55,87 +82,85 @@ This repository contains SQL queries and corresponding visualizations for analyz
 ### 1. Customer Information for Marketing Team
 Retrieve customer first name, last name, and email ID.
 
-![Customer Info](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/email.png)
+![Customer Info](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/Customer%20Information%20for%20Marketing%20Team(1).png)
 
 ### 2. Count of Movies with Rental Rate of $0.99
-![Cheapest Rental](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/CHEAPEST_RENTAL.png)
+![Cheapest Rental](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/Count%20of%20Movies%20with%20Rental%20Rate%20of%20%240.99(2).png)
 
 ### 3. Rental Rate Distribution and Movie Count
-![Total Movies per Rental Rate](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/TOTAL_NO_OF_MOVIES.png)
+![Total Movies per Rental Rate](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/.%20Rental%20Rate%20Distribution%20and%20Movie%20Count(3).png)
 
 ### 4. Most Common Movie Rating
-![Rating Count](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/rating_wise_count.png)
+![Rating Count](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/most_comman_movies_rating(4).png)
 
 ### 5. Most Prevalent Rating per Store
-![Rating per Store](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/rating_to_store.png)
+![Rating per Store](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/most%20prevelent%20rating%20per%20store(5).png)
 
 ### 6. List of Films by Name, Category, and Language
-![Film List](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/TLC.png)
+![Film List](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/list%20of%20film%2Ccategary%2Clanguage(6).png)
 
 ### 7. Movie Rental Frequency
-![Rental Popularity](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/popularity.png)
+![Rental Popularity](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/movie%20rental%20freqvency(7).png)
 
 ### 8. Top 10 Grossing Films
-![Revenue per Film](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/REVENUE.png)
+![Revenue per Film](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/top%2010%20grossi%20ng%20film(8).png)
 
 ### 9. Highest Spending Customer
-![Most Spending Customer](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MOST_SPENDING_CUSTOMER.png)
+![Most Spending Customer](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/highest%20spoending%20customer(9).png)
 
 ### 10. Store with Most Revenue
-![Highest Revenue Store](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MOST_REVENUE.png)
+![Highest Revenue Store](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/store%20with%20most%20revenue(10).png)
 
 ### 11. Monthly Rentals Count
-![Rentals Per Month](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/RENTALS_PER_MONTH.png)
+![Rentals Per Month](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/monthly%20rental%20count(11).png)
 
 ### 12. Customers Eligible for Rewards
-![Reward Eligible Customers](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/REWARD_VIA_PHONE.png)
+![Reward Eligible Customers](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/customer%20eligible%20for%20reward(12).png)
 
 ### 13. Payments from First 100 Customers
-![First 100 Customer Payments](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/FIRST_100_CUSTOMER_PAYMENTS.png)
+![First 100 Customer Payments](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/payment%20from%20first%20100%20customer(13).png)
 
 ### 14. Payments Over $5 Since Jan 1, 2006
-![Payments Over $5](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/JAN_06_2006.png)
+![Payments Over $5](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/Payments%20%20%20%201%20Jan%202006(14).png)
 
 ### 15. Payments Over $5 for Specific Customers
-![Payments Over $5](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/PAYMENTS_OVER_%245.png)
+![Payments Over $5](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/Payments%20Over%20%245%20for%20Specific%20Customers(15).png)
 
 ### 16. Films with 'Behind the Scenes' Special Feature
-![Behind the Scenes Films](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/BTS.png)
+![Behind the Scenes Films](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/.%20Films%20with%20'Behind%20the%20Scenes'%20Special%20Feature(16).png)
 
 ### 17. Unique Movie Ratings and Count
-![Unique Ratings](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/UNI_MOVIES_RATINGS_%26_NO_OF_MOVIES.png)
+![Unique Ratings](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/unick%20movie%20rental%20(17).png)
 
 ### 18. Titles Count by Rental Duration
-![Rental Duration Count](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/SLICED_BY_RENTAL_RATE.png)
+![Rental Duration Count](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/Titles%20Count%20by%20Rental%20Duration(18).png)
 
 ### 19. Ratings, Movie Count, Length, and Rental Duration
-![Ratings and Rental Duration](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/COMPARE_WITH_RENTAL_DURATION.png)
+![Ratings and Rental Duration](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/Ratings%2C%20Movie%20Count%2C%20Length%2C%20and%20Rental%20Duration(19).png)
 
 ### 20. Film Count by Replacement Cost with Rental Rates
-![Replacement Cost Analysis](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MIN_MAX_AVG.png)
+![Replacement Cost Analysis](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/Film%20Count%20by%20Replacement%20Cost%20with%20Rental%20Rates(20).png)
 
 ### 21. Customers with Less Than 15 Rentals
-![Low Rental Customers](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/less_15.png)
+![Low Rental Customers](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/Customers%20with%20Less%20Than%2015%20Rentals(21).png)
 
 ### 22. Longest Films Sorted by Length and Rental Rate
-![Longest Films](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/longestfilms_sort.png)
+![Longest Films](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/Longest%20Films%20Sorted%20by%20Length%20and%20Rental%20Rate(22).png)
 
 ### 23. Categorization of Movies by Length
-![Movies Categorized by Length](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/SLICED_BY_RENTAL_RATE.png)
+![Movies Categorized by Length](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/Categorization%20of%20Movies%20by%20Length(23).png)
 
 ### 24. Movie Recommendations by Age Group
-![Age-Based Recommendations](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/FIT_FOR_RECOMMENDATION.png)
+![Age-Based Recommendations](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/Movie%20Recommendations%20by%20Age%20Group(24).png)
 
 ### 25. Films Inventory List
-![Films in Inventory](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/FILMS_IN_INVENTORY.png)
+![Films in Inventory](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/Films%20Inventory%20List(25).png)
 
 ### 26. Actor Movie Count
-![Actor Movie Count](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/NO_OF_FILMS_BY_ACTOR.png)
+![Actor Movie Count](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/.%20Actor%20Movie%20Count(26).png)
 
 ### 27. Number of Actors per Film
-![Actors per Title](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/ACTOR_ASSOCIATED_WITH_TITLE.png)
+![Actors per Title](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/Number%20of%20Actors%20per%20Film(27).png)
 
 ### 28. List of Staff and Advisors
-![Staff and Advisors](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/UNION.png)
-
----
+![Staff and Advisors](https://github.com/NEHA5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/List%20of%20Staff%20and%20Advisors(28).png)
