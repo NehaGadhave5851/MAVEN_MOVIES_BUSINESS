@@ -130,7 +130,7 @@ Retrieve customer first name, last name, and email ID.
 ![Behind the Scenes Films](https://github.com/NehaGadhave5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/.%20Films%20with%20'Behind%20the%20Scenes'%20Special%20Feature(16).png)
 
 ### 17. Unique Movie Ratings and Count
-![Unique Ratings](https://github.com/NehaGadhave5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/unick%20movie%20rental%20(17).png)
+![Unique Ratings](https://github.com/NehaGadhave5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/most_comman_movies_rating(4).png)
 
 ### 18. Titles Count by Rental Duration
 ![Rental Duration Count](https://github.com/NehaGadhave5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/Titles%20Count%20by%20Rental%20Duration(18).png)
