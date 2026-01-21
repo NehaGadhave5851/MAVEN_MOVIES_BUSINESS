@@ -127,7 +127,7 @@ Retrieve customer first name, last name, and email ID.
 ![Payments Over $5](https://github.com/NehaGadhave5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/Payments%20Over%20%245%20for%20Specific%20Customers(15).png)
 
 ### 16. Films with 'Behind the Scenes' Special Feature
-![Behind the Scenes Films](https://github.com/NehaGadhave5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/.%20Films%20with%20'Behind%20the%20Scenes'%20Special%20Feature(16).png)
+![Behind the Scenes Films](https://github.com/NehaGadhave5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/tital%20and%20special%20feature.png)
 
 ### 17. Unique Movie Ratings and Count
 ![Unique Ratings](https://github.com/NehaGadhave5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/most_comman_movies_rating(4).png)
