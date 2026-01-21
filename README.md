@@ -160,7 +160,7 @@ Retrieve customer first name, last name, and email ID.
 ![Actor Movie Count](https://github.com/NehaGadhave5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/.%20Actor%20Movie%20Count(26).png)
 
 ### 27. Number of Actors per Film
-![Actors per Title](https://github.com/NehaGadhave5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/Number%20of%20Actors%20per%20Film(27).png)
+![Actors per Title](https://github.com/NehaGadhave5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/actor_movies_count.png)
 
 ### 28. List of Staff and Advisors
 ![Staff and Advisors](https://github.com/NehaGadhave5851/MAVEN_MOVIES_BUSINESS/blob/main/code_output/List%20of%20Staff%20and%20Advisors(28).png)
